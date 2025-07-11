@@ -1,1 +1,0 @@
-#This full-stack Hotel Management System (HMS) simplifies hotel operations like booking, room management, and guest handling. Built using Node.js, Express.js, and EJS, it offers a user-friendly interface and handles database interactions with MongoDB , . This project provides a robust solution for efficient hotel management.
